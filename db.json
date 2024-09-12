@@ -1,0 +1,301 @@
+{
+  "categories": [
+    {
+      "id": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "name": "Кольцo",
+      "type": "woman",
+      "image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BICM0337R03_WAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-68721.png"
+    },
+    {
+      "id": "1551c9b0-6cc5-4914-9758-fad65ba7724a",
+      "name": "Колье",
+      "type": "woman",
+      "image": "https://kinclimg5.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPO0742N15_RAA18DIG6XXXXXXXX_ABCD00-PICS-00003-1024-73525.png"
+    },
+    {
+      "id": "d39e3356-51ad-4a6e-9926-357098c8b27c",
+      "name": "Кулоны",
+      "type": "woman",
+      "image": "https://kinclimg1.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISN0672N17_YAA18DIG6XXXXXXXX_ABCD00-PICS-00003-1024-49404.png"
+    },
+    {
+      "id": "fc5fdd7f-e391-4a59-a016-f42919f13091",
+      "name": "Кольцo",
+      "type": "man",
+      "image": "https://kinclimg5.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPM0025R22_YAA22XXXXXXXXXXXX_ABCD00-PICS-00001-1024-2701.jpg"
+    },
+    {
+      "id": "78549de1-909e-49fa-8150-973712c01fb4",
+      "name": "Браслеты",
+      "type": "man",
+      "image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPM0025V31_WAA18DIG6BLTOXXXX_ABCD00-PICS-00000-1024-68729.png"
+    }
+  ],
+  "subCategories": [
+    {
+      "id": "687893ed-c137-450a-a710-3181d8b68a1e",
+      "name": "Кольцo",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8"
+    },
+    {
+      "id": "9839ece8-37a5-4941-90ce-922b6f0168ec",
+      "name": "Обручальные",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8"
+    },
+    {
+      "id": "940bc7df-5ce7-4fc3-bd43-e9093ece6eb8",
+      "name": "Помолвочные",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8"
+    },
+    {
+      "id": "5d8fe704-c2a0-4a11-a504-bc64af3c3d36",
+      "name": "Золотые колье",
+      "categoryId": "1551c9b0-6cc5-4914-9758-fad65ba7724a"
+    },
+    {
+      "id": "b5073d94-7794-4be1-97f8-59f950c28105",
+      "name": "Чокеры",
+      "categoryId": "1551c9b0-6cc5-4914-9758-fad65ba7724a"
+    },
+    {
+      "id": "eeae235e-a582-4894-b5ec-6d95ef85bace",
+      "name": "Кулоны-сердечки",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c"
+    },
+    {
+      "id": "585a4fde-e90f-4ca5-aad5-45945296a87a",
+      "name": "Медальоны",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c"
+    },
+    {
+      "id": "bde6c8e0-44a5-4f93-b36e-ea341336dbb3",
+      "name": "Золотое",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091"
+    },
+    {
+      "id": "4c916dbc-594e-4bbc-bc7f-f41067639f5c",
+      "name": "Серебряное ",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091"
+    },
+    {
+      "id": "a1d47ea0-7bf9-4672-8e84-1708d4cd0bbe",
+      "name": "Кожаный ",
+      "categoryId": "78549de1-909e-49fa-8150-973712c01fb4"
+    },
+    {
+      "id": "5abf7470-a11d-4d27-8eca-f20e7af48bb2",
+      "name": "Золотое",
+      "categoryId": "78549de1-909e-49fa-8150-973712c01fb4"
+    }
+  ],
+  "products": [
+    {
+      "id": "fe53d2be-f4d8-41f5-94bf-879ebf647bc6",
+      "name": "A100",
+      "price": 900,
+      "image": "https://assets.vrai.com/25216/1724258713-bypass-wrap-ring-front-white.jpg?auto=compress&fit=crop&crop=focalpoint&crop=focalpoint&fm=avif&q=75&w=600&h=600&dpr=2",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "687893ed-c137-450a-a710-3181d8b68a1e"
+    },
+    {
+      "id": "60fae2d5-3fa8-4be6-a434-39053817d8ec",
+      "name": "A101",
+      "price": 148,
+      "image": "https://www.zales.com/productimages/processed/V-20578636_0_800.jpg?pristine=true",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "687893ed-c137-450a-a710-3181d8b68a1e"
+    },
+    {
+      "id": "95d4c35e-f462-4511-8566-9e1eb34b266a",
+      "name": "A102",
+      "price": 1000,
+      "image": "https://assets.vrai.com/25216/1658001935-q2-2022-baguette-bar-er-round-band-yg-still-life.jpg?auto=compress&fit=crop&crop=focalpoint&crop=focalpoint&fm=avif&q=75&w=600&h=600&dpr=2",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "9839ece8-37a5-4941-90ce-922b6f0168ec"
+    },
+    {
+      "id": "56c41cff-4821-4da0-8244-a2d007af2d6c",
+      "name": "A103",
+      "price": 1100,
+      "image": "https://assets.vrai.com/25216/1598397252-web-infinity-wedding-band-0-02ct-yellow-gold-front.jpg?auto=enhance&fm=avif&w=576&q=75&dpr=2",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "9839ece8-37a5-4941-90ce-922b6f0168ec"
+    },
+    {
+      "id": "f9b77ed9-2729-41e5-8e20-657b7cc95f3c",
+      "name": "A104",
+      "price": 950,
+      "image": "https://assets.vrai.com/25216/1672719159-twisted-wedding-band-front-yellow.jpg?auto=enhance&fm=avif&w=576&q=60&dpr=2",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "9839ece8-37a5-4941-90ce-922b6f0168ec"
+    },
+    {
+      "id": "b70ff242-c3f8-4c3f-bbae-4fbff546299c",
+      "name": "A105",
+      "price": 3000,
+      "image": "https://www.zales.com/productimages/processed/V-20586802_0_260.jpg?pristine=true",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "940bc7df-5ce7-4fc3-bd43-e9093ece6eb8"
+    },
+    {
+      "id": "f81b2cdf-7cea-4e31-9295-32b0221d24a2",
+      "name": "A110",
+      "price": 1700,
+      "image": "https://www.zales.com/productimages/processed/V-20580912_0_260.jpg?pristine=true",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "940bc7df-5ce7-4fc3-bd43-e9093ece6eb8"
+    },
+    {
+      "id": "a546abb9-0c2d-4b2b-93fb-3d223e20039c",
+      "name": "B100",
+      "price": 450,
+      "image": "https://assets.vrai.com/25216/1604687036-solitaire-round-necklace-1-0ct-yellow-gold-front.jpg?auto=enhance&fm=avif&w=576&q=60&dpr=2",
+      "categoryId": "1551c9b0-6cc5-4914-9758-fad65ba7724a",
+      "subCategoryId": "5d8fe704-c2a0-4a11-a504-bc64af3c3d36"
+    },
+    {
+      "id": "f61ce034-0300-466b-a5a3-1c2baacdfece",
+      "name": "B120",
+      "price": 950,
+      "image": "https://assets.vrai.com/25216/1663610256-seven-stone-linked-tennis-necklace-front-yellow.jpg?auto=compress&fit=crop&crop=focalpoint&crop=focalpoint&fm=avif&q=75&w=600&h=600&dpr=2",
+      "categoryId": "1551c9b0-6cc5-4914-9758-fad65ba7724a",
+      "subCategoryId": "5d8fe704-c2a0-4a11-a504-bc64af3c3d36"
+    },
+    {
+      "id": "6902ffd6-eee2-4f13-b15b-5d37177c9ab6",
+      "name": "B150",
+      "price": 13500,
+      "image": "https://assets.vrai.com/25216/1686789913-n-va-choker-a1_round-yellow.jpg?auto=enhance&fm=avif&w=576&q=60&dpr=2",
+      "categoryId": "1551c9b0-6cc5-4914-9758-fad65ba7724a",
+      "subCategoryId": "b5073d94-7794-4be1-97f8-59f950c28105"
+    },
+    {
+      "id": "34af32bb-eeec-4330-8dce-dfc13161b3ce",
+      "name": "B500",
+      "price": 700,
+      "image": "https://assets.vrai.com/25216/1626302683-bp-thumb.jpg?auto=enhance%2Cformat%2Ccompress&dpr=1.5&fm=avif&q=50&w=454",
+      "categoryId": "1551c9b0-6cc5-4914-9758-fad65ba7724a",
+      "subCategoryId": "5d8fe704-c2a0-4a11-a504-bc64af3c3d36"
+    },
+    {
+      "id": "765b5d3c-e143-4370-ab98-c010a4bb0403",
+      "name": "G100",
+      "price": 550,
+      "image": "https://media.tiffany.com/is/image/tiffanydm/2024_JAN_VAL_2x2MktTile_Prod3?$tile$&wid=1488&hei=1488&defaultImage=NoImageAvailableInternal&fmt=webp",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c",
+      "subCategoryId": "eeae235e-a582-4894-b5ec-6d95ef85bace"
+    },
+    {
+      "id": "19e8c15e-294b-4466-8fac-de4364a55040",
+      "name": "H150",
+      "price": 350,
+      "image": "https://media.tiffany.com/is/image/Tiffany/EcomBrowseM/elsa-perettiopen-heart-lariat-necklace-23148242_1023412_ED.jpg?defaultImage=NoImageAvailableInternal&fmt=webp",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c",
+      "subCategoryId": "eeae235e-a582-4894-b5ec-6d95ef85bace"
+    },
+    {
+      "id": "232d4f75-ce34-45c0-a1d1-7c724f095eb8",
+      "name": "M144",
+      "price": 899,
+      "image": "https://cdn.oakandluna.com/digital-asset/product/tyra-initial-medallion-necklace-14k-solid-gold-1.jpg?w=640",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c",
+      "subCategoryId": "585a4fde-e90f-4ca5-aad5-45945296a87a"
+    },
+    {
+      "id": "58e219f6-ec15-4c0b-817f-0e9ed3126417",
+      "name": "L555",
+      "price": 195,
+      "image": "https://cdn.oakandluna.com/digital-asset/product/engraved-comprass-necklace-gold-vermeil-15.jpg?w=640",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c",
+      "subCategoryId": "585a4fde-e90f-4ca5-aad5-45945296a87a"
+    },
+    {
+      "id": "7d947e57-daed-43ed-97fd-956f2bfcf035",
+      "name": "L611",
+      "price": 125,
+      "image": "https://cdn.oakandluna.com/digital-asset/product/sun-compass-initials-bracelet-with-cubic-zirconia-gold-vermeil-5.jpg?w=640",
+      "categoryId": "d39e3356-51ad-4a6e-9926-357098c8b27c",
+      "subCategoryId": "585a4fde-e90f-4ca5-aad5-45945296a87a"
+    },
+    {
+      "id": "5442122e-c957-47f1-abad-a9209d10e4bc",
+      "name": "R130",
+      "price": 990,
+      "image": "https://storage.goldcenter.am/image-goldcenter/287/6900/43325313.jpeg",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091",
+      "subCategoryId": "bde6c8e0-44a5-4f93-b36e-ea341336dbb3"
+    },
+    {
+      "id": "2d30fb17-c57f-421e-a54c-e17a4c25e01d",
+      "name": "E550",
+      "price": 710,
+      "image": "https://storage.goldcenter.am/image-goldcenter/89/7178/76309676.jpeg",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091",
+      "subCategoryId": "bde6c8e0-44a5-4f93-b36e-ea341336dbb3"
+    },
+    {
+      "id": "4303a8e9-56f8-4bdb-8e18-62d27f1bc88f",
+      "name": "L655",
+      "price": 610,
+      "image": "https://storage.goldcenter.am/image-goldcenter/287/6881/81638775.jpeg",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091",
+      "subCategoryId": "bde6c8e0-44a5-4f93-b36e-ea341336dbb3"
+    },
+    {
+      "id": "d0c0c4f5-740b-4570-a780-25b83c7c4549",
+      "name": "S111",
+      "price": 35,
+      "image": "https://supersilver.com/cdn/shop/products/mountains1.1.jpg?v=1659560613&width=1100",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091",
+      "subCategoryId": "4c916dbc-594e-4bbc-bc7f-f41067639f5c"
+    },
+    {
+      "id": "593a1199-6a12-4543-84af-0175332178ed",
+      "name": "A144",
+      "price": 49,
+      "image": "https://supersilver.com/cdn/shop/products/b2.1.jpg?v=1652401925&width=1100",
+      "categoryId": "fc5fdd7f-e391-4a59-a016-f42919f13091",
+      "subCategoryId": "4c916dbc-594e-4bbc-bc7f-f41067639f5c"
+    },
+    {
+      "id": "9742646e-ccb7-449f-aff6-7ca963d207af",
+      "name": "A870",
+      "price": 1200,
+      "image": "https://storage.goldcenter.am/image-goldcenter/48/5873/57362750.jpeg",
+      "categoryId": "78549de1-909e-49fa-8150-973712c01fb4",
+      "subCategoryId": "a1d47ea0-7bf9-4672-8e84-1708d4cd0bbe"
+    },
+    {
+      "id": "61d0632c-9f75-41d4-8b3d-464c02822465",
+      "name": "E333",
+      "price": 610,
+      "image": "https://storage.goldcenter.am/image-goldcenter/48/6573/39855969.jpeg",
+      "categoryId": "78549de1-909e-49fa-8150-973712c01fb4",
+      "subCategoryId": "a1d47ea0-7bf9-4672-8e84-1708d4cd0bbe"
+    },
+    {
+      "id": "bb20b197-a9a8-4e31-8125-a0950c271e01",
+      "name": "AB800",
+      "price": 955,
+      "image": "https://storage.goldcenter.am/image-goldcenter/79/5134/46686957.jpeg",
+      "categoryId": "78549de1-909e-49fa-8150-973712c01fb4",
+      "subCategoryId": "5abf7470-a11d-4d27-8eca-f20e7af48bb2"
+    },
+    {
+      "id": "82cf3304-adab-4a37-acfd-1984985b2f9a",
+      "name": "SA522",
+      "price": 1370,
+      "image": "https://storage.goldcenter.am/image-goldcenter/82/2352/15875930.jpeg",
+      "categoryId": "78549de1-909e-49fa-8150-973712c01fb4",
+      "subCategoryId": "5abf7470-a11d-4d27-8eca-f20e7af48bb2"
+    },
+    {
+      "id": "7200e7a6-7778-44ce-838d-4f78d0e2ae2e",
+      "name": "AA1447",
+      "price": 2300,
+      "image": "https://assets.vrai.com/25216/1693243245-what-is-a-cocktail-ring-2000x1333-1.jpg?auto=enhance%2Cformat%2Ccompress&dpr=1.5&fm=avif&q=50&w=454",
+      "categoryId": "38e20085-a88a-471c-b0f4-8fb66c9c6ff8",
+      "subCategoryId": "940bc7df-5ce7-4fc3-bd43-e9093ece6eb8"
+    }
+  ]
+}
